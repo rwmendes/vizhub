@@ -1,0 +1,65 @@
+﻿                     <html>
+<head>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js?hcode=be5162d915534272a57d0bb781d27f2b"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-sunburst.min.js?hcode=be5162d915534272a57d0bb781d27f2b"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js?hcode=be5162d915534272a57d0bb781d27f2b"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js?hcode=be5162d915534272a57d0bb781d27f2b"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-data-adapter.min.js?hcode=be5162d915534272a57d0bb781d27f2b"></script>
+  <link href="https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css?hcode=be5162d915534272a57d0bb781d27f2b" type="text/css" rel="stylesheet">
+  <link href="https://cdn.anychart.com/releases/v8/fonts/css/anychart-font.min.css?hcode=be5162d915534272a57d0bb781d27f2b" type="text/css" rel="stylesheet">
+  <style type="text/css">
+		html,
+		body,
+		#container {
+			width: 100%;
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+</style>
+</head>
+<body>	
+  <div id="container"></div>
+  <script>
+		anychart.onDocumentReady(function () {
+			anychart.data.loadJsonFile('data.json',
+				function (data) {
+					// makes tree from the data for the sample
+					var dataTree = anychart.data.tree(data, 'as-table');
+
+					// create sunburst chart
+					var chart = anychart.sunburst(dataTree);
+
+					// set calculation mode
+					chart.calculationMode('ordinal-from-root');
+
+					// set chart title
+					chart.title('Classificação da Informação em Relação ao Sigilo');
+
+					// set settings for the penultimate level labels
+					chart.level(-2).labels().position('radial');
+
+					// set chart labels settings
+					chart.labels().hAlign('center');
+
+					// set settings for leaves labels
+					chart.leaves().labels()
+						.minFontSize(8)
+						.textOverflow('...');
+
+					// the fill specified in the data has priority
+					// set point fill
+					chart.fill(function () {
+						return anychart.color.darken(this.parentColor, 0.15)
+					});
+
+					// set container id for the chart
+					chart.container('container');
+					// initiate chart drawing
+					chart.draw();
+				});
+		});
+</script>
+</body>
+</html>
+                

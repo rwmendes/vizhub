@@ -1,0 +1,111 @@
+﻿[
+  {
+    "name": "Ostensiva",
+    "id": "Ostensiva",
+  },
+  {
+    "name": "Ostensiva Comum",
+    "parent": "Ostensiva",
+    "id": "Ostensiva Comum",
+    "fill": "#357ca5"
+  },
+  {
+    "name": "Dados Abertos",
+    "parent": "Ostensiva",
+    "id": "dados-abertos",
+    "fill": "#9c81a8"
+  },
+  {
+    "name": "Não Tem Restrição",
+    "parent": "Ostensiva Comum",
+    "id": "NTR1",
+    "fill": "#00814e"
+  },
+  {
+    "name": "Não Tem Restrição",
+    "parent": "dados-abertos",
+    "id": "NTR2",
+    "fill": "#5e4e7b"
+  },
+  {
+    "name": "Dados Pessoais",
+    "id": "dados-pessoais",
+    "fill": "#cbbba0"
+  },
+  {
+    "name": "Sensível",
+    "parent": "dados-pessoais",
+    "id": "sensivel",
+    "fill": "#f2a569"
+  },
+  {
+    "name": "Restrito",
+    "parent": "sensivel",
+    "id": "DP_sensivel",
+    "fill": "#db7773"
+  },
+  {
+    "name": "Reservado",
+    "parent": "sensivel",
+    "id": "DP_reservado",
+    "fill": "#edcf37"
+  },
+  {
+    "name": "Sigilosa",
+    "id": "Sigilosa",
+    "fill": "#634e42"
+  },
+  {
+    "name": "Ultrasecreto",
+    "parent": "Sigilosa",
+    "id": "Ultrasecreto",
+    "fill": "#a30d1c"
+  },
+  {
+    "name": "Secreto",
+    "parent": "Sigilosa",
+    "id": "Secreto",
+    "fill": "#f38967"
+  },
+  {
+    "name": "Reservado",
+    "parent": "Sigilosa",
+    "id": "Reservado",
+    "fill": "#6f1547"
+  },
+  {
+    "name": "Específico",
+    "parent": "Sigilosa",
+    "id": "Específico",
+    "fill": "#575756"
+  },
+  {
+    "name": "5 anos",
+    "parent": "Reservado",
+    "id": "reservado_5",
+  },
+  {
+    "name": "25 anos",
+    "parent": "Ultrasecreto",
+    "id": "ultra_25",
+    "fill": "#e85381"
+  },
+  {
+    "name": "15 anos",
+    "parent": "Secreto",
+    "id": "secreto_15",
+    "fill": "#f2a569"
+  },
+  {
+    "name": "Restrito",
+    "parent": "Específico",
+    "id": "esp_restrito",
+    "fill": "#c8cd80"
+  },
+  {
+    "name": "Reservado",
+    "parent": "Específico",
+    "id": "esp_reservado",
+    "fill": "#e5dc65"
+  }
+]
