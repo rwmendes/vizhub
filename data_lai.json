@@ -1,0 +1,6003 @@
+﻿
+{
+
+        "name" : "Nº 12.527, DE 18 DE NOVEMBRO DE 2011" ,
+
+        "type" : "LEI",
+
+        "numero" : "Conhecida como LAI - Lei de Acesso a Informação",
+
+        "size" : "315",
+
+        "color" : "#FFFFFF", 
+
+        "range" : " (art. 1º a art. 47.)", 
+
+        "key"   : "lai",
+
+        "position" : "0",
+
+        "level"   : "-2",
+
+        "children" : [  {
+
+              "name" : "I",
+
+              "type" : "CAPÍTULO",
+
+              "numero" : "DISPOSIÇÕES GERAIS",
+
+              "size" : "22",
+
+              "color1" : "#A8DBA8",
+
+              "color2" : "#052E4A",
+
+              "range" : " (art. 1º ao art. 5º)",
+
+              "key"   : "Z-cap1",
+
+              "position" : "0",
+
+              "level"   : "-1",
+
+              "children" : [  {
+          
+
+                "name" : "1º",
+
+                "type" : "ARTIGO",
+
+                "numero" : "Esta Lei dispõe sobre os procedimentos a serem observados pela União, Estados, Distrito Federal e Municípios, com o fim de garantir o acesso a informações previsto no Inciso XXXIII do art. 5o, no Inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal.",  
+
+                "position" : "0",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap1_art1",
+
+                "range" : " ( Parágrafo único )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "7",
+        
+
+           "children" : [  
+
+
+                {
+        
+                "name" : "Único",          
+
+                "type" : "Parágrafo", 
+
+                "numero" : "Subordinam-se ao regime desta Lei:",
+
+                "position" : "0",
+          
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art1_pu",
+
+                "range" : " ( Inciso I ao Inciso II )",   
+
+                "color" : "#CCCCCC",        
+
+                "size" : "1",
+
+
+           "children" : [  
+
+                {
+        
+                "name" : "I",          
+
+                "type" : "Inciso", 
+
+                "numero" : "os órgãos públicos integrantes da administração direta dos Poderes Executivo, Legislativo, incluindo as Cortes de Contas, e Judiciário e do Ministério Público;",
+
+                "position" : "0",
+          
+                "level"   : "2",
+
+                "key"     : "Z-cap1_art1_pu_inc1",
+
+                "range" : " ( )",   
+
+                "color" : "#CCCCCC",        
+
+                "size" : "1"
+        
+           },
+
+{        
+
+                "name" : "II",        
+
+                "type" : "Inciso",   
+
+                "numero" : "as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia mista e demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios.",
+
+                "position" : "1",            
+
+                "level"   : "2",
+ 
+                "key"     : "Z-cap1_art1_pu_inc2",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           }
+
+           ]
+        
+           }
+
+
+           ]
+
+
+           }, {
+                  
+                "name" : "2º",
+
+                "type" : "ARTIGO",
+
+                "numero" : "Aplicam-se as disposições desta Lei, no que couber, às entidades privadas sem fins lucrativos que recebam, para realização de ações de interesse público, recursos públicos diretamente do orçamento ou mediante subvenções sociais, contrato de gestão, termo de parceria, convênios, acordo, ajustes ou outros instrumentos congêneres.",
+
+                "position" : "1",
+            
+                "level"   : "0",
+
+                "key"     : "Z-cap1_art2",
+
+                "range" : " ( Parágrafo Único )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1",        
+
+
+          "children" : [  {
+
+        
+                "name" : "Único",        
+
+                "type" : "Parágrafo",   
+
+                "numero" : "A publicidade a que estão submetidas as entidades citadas no caput refere-se à parcela dos recursos públicos recebidos e à sua destinação, sem prejuízo das prestações de contas a que estejam legalmente obrigadas.",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art2_pu",
+
+                "range" : " ( )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+
+        
+
+           }
+
+           ]
+
+           }, {                   
+
+                "name" : "3º",
+
+                "type" : "ARTIGO",
+
+                "numero" : "Os procedimentos previstos nesta Lei destinam-se a assegurar o direito fundamental de acesso à informação e devem ser executados em conformidade com os princípios básicos da administração pública e com as seguintes diretrizes:",
+
+                "position" : "2",
+            
+                "level"   : "0",
+ 
+                 "key"     : "Z-cap1_art3",
+  
+                 "range" : " ( Inciso I ao Inciso V )",
+ 
+                 "color" : "#CCCCCC",            
+
+                 "size" : "1",
+
+          "children" : [  {
+        
+
+                "name" : "I",           
+
+                "type" : "Inciso",
+
+                "numero" : "observância da publicidade como preceito geral e do sigilo como exceção;",
+
+                "position" : "0",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art3_inc1",
+
+                "range" : " ( )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "II",           
+
+                "type" : "Inciso",
+
+                "numero" : "divulgação de informações de interesse público, independentemente de solicitações;",
+
+                "position" : "1",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art3_inc2",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "III",           
+
+                "type" : "Inciso",
+
+                "numero" : "utilização de meios de comunicação viabilizados pela tecnologia da informação;",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art3_inc3",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",
+             
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "IV",           
+
+                "type" : "Inciso",
+
+                "numero" : "fomento ao desenvolvimento da cultura de transparência na administração pública;",
+
+                "position" : "3",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art3_inc4",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",
+           
+                "size" : "1"
+
+        
+           },
+
+{
+        
+                "name" : "V",      
+
+                "type" : "Inciso",     
+
+                "numero" : "desenvolvimento do controle social da administração pública.",
+
+                "position" : "4",
+           
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art3_inc5",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",
+           
+                 "size" : "1"
+          
+
+           }
+
+           ]
+        
+
+           }, {        
+           
+                "name" : "4º",
+
+                "type" : "ARTIGO",
+
+                "numero" : "Para os efeitos desta Lei, considera-se:",
+
+                "position" : "3",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap1_art4",
+
+                "range" : " ( Inciso I ao Inciso IX )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1",        
+
+
+           "children" : [  {
+        
+
+                "name" : "I",           
+
+                "type" : "Inciso",
+
+                "numero" : "informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato;",
+
+                "position" : "0",
+             
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc1",
+
+                "range" : " ( )",
+        
+                "color" : "#CCCCCC",
+           
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "II",           
+
+                "type" : "Inciso",
+
+                "numero" : "documento: unidade de registro de informações, qualquer que seja o suporte ou formato;",
+
+                "position" : "1",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc2",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "III",           
+
+                "type" : "Inciso",
+
+                "numero" : "informação sigilosa: aquela submetida temporariamente à restrição de acesso público em razão de sua imprescindibilidade para a segurança da sociedade e do Estado;",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc3",
+
+                "range" : " ( )",
+        
+                "color" : "#CCCCCC",
+           
+                "size" : "1"
+        
+
+           },
+
+{        
+
+                "name" : "IV",     
+
+                "type" : "Inciso",      
+
+                "numero" : "informação pessoal: aquela relacionada à pessoa natural identificada ou identificável;",
+
+                "position" : "3",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc4",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+
+{
+        
+
+                "name" : "V",     
+
+                "type" : "Inciso",      
+
+                "numero" : "tratamento da informação: conjunto de ações referentes à produção, recepção, classificação, utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, eliminação, avaliação, destinação ou controle da informação;",
+
+                "position" : "4",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc5",
+
+                "range" : " ( )",
+       
+                "color" : "#CCCCCC",          
+
+                "size" : "1"
+        
+
+           },
+
+
+{
+        
+
+                "name" : "VI",           
+
+                "type" : "Inciso",
+
+                "numero" : "disponibilidade: qualidade da informação que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados;",
+
+                "position" : "5",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc6",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+
+{
+        
+
+                "name" : "VII",   
+
+                "type" : "Inciso",        
+
+                "numero" : "autenticidade: qualidade da informação que tenha sido produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema;",
+
+                "position" : "6",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc7",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+
+{
+        
+                "name" : "VIII",     
+
+                "type" : "Inciso",      
+
+                "numero" : "integridade: qualidade da informação não modificada, inclusive quanto à origem, trânsito e destino;",
+
+                "position" : "7",          
+
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc8",
+
+                "range" : " ( )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+
+{        
+
+                "name" : "IX",   
+
+                "type" : "Inciso",        
+
+                "numero" : "primariedade: qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações.",
+
+                "position" : "8",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap1_art4_inc9",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           }
+
+           ]
+
+
+         }, {
+
+               
+                "name" : "5º",
+
+                "type" : "ARTIGO",
+
+                "numero" : "É dever do Estado garantir o direito de acesso à informação, que será franqueada, mediante procedimentos objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão.",
+
+                "position" : "4",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap1_art5",
+ 
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "5"        
+
+           }
+
+            ]
+
+         }, {
+
+              "name" : "II",
+
+              "type" : "CAPÍTULO",
+
+              "numero" : "DO ACESSO A INFORMAÇÕES E DA SUA DIVULGAÇÃO",
+
+              "size" : "37",
+
+              "color1" : "#A8DBA8",
+
+              "color2" : "#052E4A",
+
+              "range" : " (art. 6º ao art. 7º)",
+
+              "key"   : "Z-cap2",
+
+              "position" : "1",
+
+              "level"   : "-1",
+
+              "children" : [  {
+
+        
+
+                "numero" : "Cabe aos órgãos e entidades do poder público, observadas as normas e procedimentos específicos aplicáveis, assegurar a:",
+
+                "name" : "6º",
+
+                "type" : "ARTIGO",
+
+                "position" : "0",
+           
+                "level"   : "0",
+ 
+                "key"     : "Z-cap2_art6",
+
+                "range" : " (Inciso I ao Inciso III)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+        ,
+
+           "children" : [  {
+        
+
+                "name" : "I",     
+
+                "type" : "Inciso",      
+
+                "numero" : "gestão transparente da informação, propiciando amplo acesso a ela e sua divulgação;",
+
+                 "position" : "0",            
+ 
+                 "level"   : "1",
+
+                 "key"     : "Z-cap2_art6_inc1",
+
+                 "range" : " ( )",        
+
+                 "color" : "#CCCCCC",            
+
+                 "size" : "1"
+        
+
+           },
+
+{        
+
+                "name" : "II",         
+
+                "type" : "Inciso",  
+
+                "numero" : "proteção da informação, garantindo-se sua disponibilidade, autenticidade e integridade; e",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art6_inc2",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "III",           
+
+                "type" : "Inciso",
+
+                "numero" : "proteção da informação sigilosa e da informação pessoal, observada a sua disponibilidade, autenticidade, integridade e eventual restrição de acesso.",
+
+                "position" : "2",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art6_inc3",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           }
+
+           ]
+
+           }, {
+
+
+
+                "name" : "7º",     
+ 
+                "type" : "ARTIGO",   
+
+                "numero" : "O acesso à informação de que trata esta Lei compreende, entre outros, os direitos de obter:",
+
+                "position" : "1",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap2_art7",
+
+                "range" : " (Inciso I ao Inciso VII, Parágrafo § 1º ao Parágrafo § 6º)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "6",
+
+           "children" : [  {
+        
+
+                "name" : "I",  
+
+                "type" : "Inciso",         
+
+                "numero" : "orientação sobre os procedimentos para a consecução de acesso, bem como sobre o local onde poderá ser encontrada ou obtida a informação almejada;",
+
+                 "position" : "0",            
+ 
+                 "level"   : "1",
+
+                 "key"     : "Z-cap2_art7_inc1",
+
+                 "range" : " ( )",        
+
+                 "color" : "#CCCCCC",            
+
+                 "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "II",           
+
+                "type" : "Inciso",
+
+                "numero" : "informação contida em registros ou documentos, produzidos ou acumulados por seus órgãos ou entidades, recolhidos ou não a arquivos públicos;",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc2",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",          
+
+                "size" : "1"
+        
+
+           },
+
+
+{
+      
+
+                "name" : "III",        
+
+                "type" : "Inciso",   
+
+                "numero" : "informação produzida ou custodiada por pessoa física ou entidade privada decorrente de qualquer vínculo com seus órgãos ou entidades, mesmo que esse vínculo já tenha cessado;",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc3",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",          
+
+                "size" : "1"
+        
+
+           },
+
+{
+      
+                "name" : "IV",   
+
+                "type" : "Inciso",        
+
+                "numero" : "informação primária, íntegra, autêntica e atualizada;",
+
+                "position" : "3",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc4",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",          
+
+                "size" : "1"
+        
+
+           },
+
+
+{
+      
+                "name" : "V",     
+
+                "type" : "Inciso",      
+
+                "numero" : "informação sobre atividades exercidas pelos órgãos e entidades, inclusive as relativas à sua política, organização e serviços;",
+
+                "position" : "4",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc5",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",          
+
+                "size" : "1"
+        
+
+           },
+
+
+{
+      
+                "name" : "VI",    
+
+                "type" : "Inciso",       
+
+                "numero" : "informação pertinente à administração do patrimônio público, utilização de recursos públicos, licitação, contratos administrativos; e ",
+
+                "position" : "5",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc6",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",          
+
+                "size" : "1"
+        
+
+           },
+
+{        
+
+                "name" : "VII",         
+
+                "type" : "Inciso",  
+
+                "numero" : "informação relativa:",
+
+                "position" : "6",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc7",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  {
+        
+
+                "name" : "a)",           
+
+                "type" : "Alínea",
+
+                "numero" : "à implementação, acompanhamento e resultados dos programas, projetos e ações dos órgãos e entidades públicas, bem como metas e indicadores propostos;",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap2_art7_inc7_a1",
+         
+                 "range" : " ( )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+
+           },
+
+
+{
+        
+                "name" : "b)",    
+
+                "type" : "Alínea",       
+
+                "numero" : "ao resultado de inspeções, auditorias, prestações e tomadas de contas realizadas pelos órgãos de controle interno e externo, incluindo prestações de contas relativas a exercícios anteriores.",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art7_inc7_a2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+
+
+           }
+
+           ]
+                   
+
+           },
+
+           {
+        
+                 "name" : "§ 1º",    
+
+                 "type" : "Parágrafo",       
+
+                 "numero" : "O acesso à informação previsto no caput não compreende as informações referentes a projetos de pesquisa e desenvolvimento científicos ou tecnológicos cujo sigilo seja imprescindível à segurança da sociedade e do Estado.",
+
+                 "position" : "7",            
+
+                 "level"   : "1",
+
+                 "key"     : "Z-cap2_art7_inc7_p1",
+         
+                 "range" : " ( - )",        
+
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+           },
+
+{      
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",
+
+                "numero" : "Quando não for autorizado acesso integral à informação por ser ela parcialmente sigilosa, é assegurado o acesso à parte não sigilosa por meio de certidão, extrato ou cópia com ocultação da parte sob sigilo.",
+
+                "position" : "8",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc7_p2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           },
+
+{      
+
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",
+
+                "numero" : "O direito de acesso aos documentos ou às informações neles contidas utilizados como fundamento da tomada de decisão e do ato administrativo será assegurado com a edição do ato decisório respectivo.",
+
+                "position" : "9",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc7_p3",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           },
+
+
+{      
+
+                "name" : "§ 4º",
+
+                "type" : "Parágrafo",
+
+                "numero" : "A negativa de acesso às informações objeto de pedido formulado aos órgãos e entidades referidas no art. 1o, quando não fundamentada, sujeitará o responsável a medidas disciplinares, nos termos do art. 32 desta Lei.",
+
+                "position" : "10",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc7_p4",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           },
+
+
+{      
+
+                "name" : "§ 5º",
+
+                "type" : "Parágrafo",
+
+                "numero" : "Informado do extravio da informação solicitada, poderá o interessado requerer à autoridade competente a imediata abertura de sindicância para apurar o desaparecimento da respectiva documentação.",
+
+                "position" : "11",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc7_p5",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           },
+
+{
+        
+
+                "name" : "§ 6º",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "Verificada a hipótese prevista no § 5o deste artigo, o responsável pela guarda da informação extraviada deverá, no prazo de 10 (dez) dias, justificar o fato e indicar testemunhas que comprovem sua alegação.",
+
+                "position" : "12",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art7_inc7_p6",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           }
+
+           ]
+
+
+
+            },
+
+          {
+
+                "name" : "8º",     
+
+                "type" : "ARTIGO",   
+
+                "numero" : "É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas.",
+
+                "position" : "2",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap2_art8",
+
+                "range" : " (Parágrafo § 1º ao Parágrafo § 4º)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "6",
+       
+
+           "children" : [  {
+        
+
+                "name" : "§ 1º",       
+
+                "type" : "Parágrafo",    
+
+                "numero" : "Na divulgação das informações a que se refere o caput, deverão constar, no mínimo:",
+
+                 "position" : "0",            
+ 
+                 "level"   : "1",
+
+                 "key"     : "Z-cap2_art8_p1",
+
+                 "range" : " ( Inciso I ao Inciso VI )",        
+
+                 "color" : "#CCCCCC",            
+
+                 "size" : "1",
+
+
+           "children" : [  {
+
+        
+                "name" : "I",   
+
+                "type" : "Inciso",
+        
+                "numero" : "registro das competências e estrutura organizacional, endereços e telefones das respectivas unidades e horários de atendimento ao público;",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap2_art8_p1_inc1",
+         
+                 "range" : " ( - )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+           },
+
+{
+        
+
+                "name" : "II",      
+
+                "type" : "Inciso",     
+
+                "numero" : "registros de quaisquer repasses ou transferências de recursos financeiros;",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p1_inc2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+{
+        
+                "name" : "III",       
+
+                "type" : "Inciso",    
+
+                "numero" : "registros das despesas;",
+
+                "position" : "2",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p1_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "IV",       
+
+                "type" : "Inciso",    
+
+                "numero" : "informações concernentes a procedimentos licitatórios, inclusive os respectivos editais e resultados, bem como a todos os contratos celebrados;",
+
+                "position" : "3",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p1_inc4",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "V",       
+
+                "type" : "Inciso",    
+
+                "numero" : "dados gerais para o acompanhamento de programas, ações, projetos e obras de órgãos e entidades; e",
+
+                "position" : "4",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p1_inc5",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "VI",       
+
+                "type" : "Inciso",    
+
+                "numero" : "respostas a perguntas mais frequentes da sociedade.",
+
+                "position" : "5",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p1_inc6",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }
+
+           ]
+
+        
+
+           },
+
+{
+
+        
+
+                "name" : "§ 2º",          
+
+                "type" : "Parágrafo", 
+
+                "numero" : "Para cumprimento do disposto no caput, os órgãos e entidades públicas deverão utilizar todos os meios e instrumentos legítimos de que dispuserem, sendo obrigatória a divulgação em sítios oficiais da rede mundial de computadores (internet).",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art8_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           },
+
+{
+        
+                "name" : "§ 3º",        
+
+                "type" : "Parágrafo",   
+
+                "numero" : "Os sítios de que trata o § 2o deverão, na forma de regulamento, atender, entre outros, aos seguintes requisitos:",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art8_p3",
+
+                "range" : " ( Inciso I ao Inciso VIII )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  {
+
+        
+                "name" : "I",   
+
+                "type" : "Inciso",
+        
+                "numero" : "conter ferramenta de pesquisa de conteúdo que permita o acesso à informação de forma objetiva, transparente, clara e em linguagem de fácil compreensão;",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap2_art8_p3_inc1",
+         
+                 "range" : " ( - )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+           },
+
+{
+        
+
+                "name" : "II",      
+
+                "type" : "Inciso",     
+
+                "numero" : "possibilitar a gravação de relatórios em diversos formatos eletrônicos, inclusive abertos e não proprietários, tais como planilhas e texto, de modo a facilitar a análise das informações;",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p3_inc2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+{
+        
+                "name" : "III",       
+
+                "type" : "Inciso",    
+
+                "numero" : "possibilitar o acesso automatizado por sistemas externos em formatos abertos, estruturados e legíveis por máquina;",
+
+                "position" : "2",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p3_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "IV",       
+
+                "type" : "Inciso",    
+
+                "numero" : "divulgar em detalhes os formatos utilizados para estruturação da informação;",
+
+                "position" : "3",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p3_inc4",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "V",       
+
+                "type" : "Inciso",    
+
+                "numero" : "garantir a autenticidade e a integridade das informações disponíveis para acesso;",
+
+                "position" : "4",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p3_inc5",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "VI",       
+
+                "type" : "Inciso",    
+
+                "numero" : "manter atualizadas as informações disponíveis para acesso;",
+
+                "position" : "5",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p3_inc6",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "VII",       
+
+                "type" : "Inciso",    
+
+                "numero" : "indicar local e instruções que permitam ao interessado comunicar-se, por via eletrônica ou telefônica, com o órgão ou entidade detentora do sítio; e",
+
+                "position" : "6",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p3_inc7",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "VIII",       
+
+                "type" : "Inciso",    
+
+                "numero" : "adotar as medidas necessárias para garantir a acessibilidade de conteúdo para pessoas com deficiência, nos termos do art. 17 da Lei no 10.098, de 19 de dezembro de 2000, e do art. 9o da Convenção sobre os Direitos das Pessoas com Deficiência, aprovada pelo Decreto Legislativo no 186, de 9 de julho de 2008.",
+
+                "position" : "7",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art8_p3_inc8",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }
+
+           ]
+        
+
+           },
+
+{        
+
+                "name" : "§ 4º",      
+
+                "type" : "Parágrafo",     
+
+                "numero" : "Os Municípios com população de até 10.000 (dez mil) habitantes ficam dispensados da divulgação obrigatória na internet a que se refere o § 2o, mantida a obrigatoriedade de divulgação, em tempo real, de informações relativas à execução orçamentária e financeira, nos critérios e prazos previstos no art. 73-B da Lei Complementar no 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).",
+
+                "position" : "3",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art8_p4",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           }
+
+           ]
+
+
+
+            },
+
+          {
+
+                "name" : "9º",     
+
+                "type" : "ARTIGO",   
+
+                "numero" : "O acesso a informações públicas será assegurado mediante:",
+
+                "position" : "3",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap2_art9",
+
+                "range" : " (Inciso I ao Inciso II)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "5",
+
+           "children" : [  {
+       
+
+                 "name" : "I",           
+
+                 "type" : "Inciso",
+ 
+                 "numero" : "criação de serviço de informações ao cidadão, nos órgãos e entidades do poder público, em local com condições apropriadas para:",
+
+                 "position" : "0",            
+ 
+                 "level"   : "1",
+
+                 "key"     : "Z-cap2_art9_inc1",
+
+                 "range" : " ( Alíena a até Alínea c )",        
+
+                 "color" : "#CCCCCC",            
+
+                 "size" : "1",
+
+
+           "children" : [  {
+        
+
+                "name" : "a)",           
+
+                "type" : "Alínea",
+
+                "numero" : "atender e orientar o público quanto ao acesso a informações;",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap2_art9_inc1_a1",
+         
+                 "range" : " ( - )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "b)",          
+
+                "type" : "Alínea", 
+
+                "numero" : "informar sobre a tramitação de documentos nas suas respectivas unidades;",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art9_inc1_a2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+
+{
+        
+                "name" : "c)",  
+  
+                "type" : "Alínea", 
+
+                "numero" : "protocolizar documentos e requerimentos de acesso a informações; e",
+
+                "position" : "2",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap2_art9_inc1_a3",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }
+
+           ]
+
+               },
+
+
+               {
+        
+                "name" : "II",       
+
+                "type" : "Inciso",    
+
+                "numero" : "realização de audiências ou consultas públicas, incentivo à participação popular ou a outras formas de divulgação.",
+
+                "position" : "1",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap2_art9_inc2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           }
+
+           ]
+
+
+            }
+
+            ]
+
+
+         }, {
+
+              "name" : "III",
+
+              "type" : " CAPÍTULO",
+
+              "numero" : "DO PROCEDIMENTO DE ACESSO À INFORMAÇÃO",
+
+              "size" : "28",
+
+              "color1" : "#A8DBA8",
+
+              "color2" : "#052E4A",
+
+              "range" : " (art. 10. ao art. 20.)",
+
+              "key"   : "Z-cap3",
+
+              "position" : "2",
+
+              "level"   : "-1",
+
+              "children" : [  {
+        
+
+                "numero" : "Do Pedido de Acesso",
+
+                "name" : "I",
+
+                "type" : "SEÇÃO",
+
+                "position" : "0",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap3_s1",
+ 
+                "range" : " (art. 10. ao art. 14.)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "2",
+
+
+           "children" : [  {
+                  
+
+                "name" : "10.",
+
+                "type" : "ARTIGO",
+          
+                "numero" : "Qualquer interessado poderá apresentar pedido de acesso a informações aos órgãos e entidades referidos no art. 1o desta Lei, por qualquer meio legítimo, devendo o pedido conter a identificação do requerente e a especificação da informação requerida.",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s1_art10",
+
+                "range" : " ( Parágrafo § 1º ao Parágrafo § 3º )",   
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  {
+        
+
+                "name" : "§ 1º",    
+
+                "type" : "Parágrafo",       
+
+                "numero" : "Para o acesso a informações de interesse público, a identificação do requerente não pode conter exigências que inviabilizem a solicitação.",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap3_s1_art10_p1",
+         
+                 "range" : " ( - )",        
+
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+
+        
+           },
+
+{
+
+        
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",
+
+                "numero" : "Os órgãos e entidades do poder público devem viabilizar alternativa de encaminhamento de pedidos de acesso por meio de seus sítios oficiais na internet.",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art10_p2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           },
+
+{
+        
+
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "São vedadas quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público.",
+
+                "position" : "2",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art10_p3",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           }
+
+           ]
+        
+
+           }, 
+
+           {                   
+
+                "name" : "11.",
+
+                "type" : "ARTIGO",
+          
+                "numero" : "O órgão ou entidade pública deverá autorizar ou conceder o acesso imediato à informação disponível.",
+
+                "position" : "1",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s1_art11",
+
+                "range" : " ( Parágrafo § 1º ao Parágrafo § 6º )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  {
+        
+
+                "name" : "§ 1º",    
+
+                "type" : "Parágrafo",       
+
+                "numero" : "Não sendo possível conceder o acesso imediato, na forma disposta no caput, o órgão ou entidade que receber o pedido deverá, em prazo não superior a 20 (vinte) dias:",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap3_s1_art11_p1",
+         
+                 "range" : " ( Inciso I ao Inciso III )",        
+
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1",
+
+           "children" : [  {
+
+        
+                "name" : "I",   
+
+                "type" : "Inciso",
+        
+                "numero" : "comunicar a data, local e modo para se realizar a consulta, efetuar a reprodução ou obter a certidão;",
+
+                "position" : "0",            
+
+                "level"   : "3",
+
+                 "key"     : "Z-cap3_s1_art11_p1_inc1",
+         
+                 "range" : " ( - )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+           },
+
+{
+        
+
+                "name" : "II",      
+
+                "type" : "Inciso",     
+
+                "numero" : "indicar as razões de fato ou de direito da recusa, total ou parcial, do acesso pretendido; ou",
+
+                "position" : "1",
+            
+                "level"   : "3",
+
+                "key"     : "Z-cap3_s1_art11_p1_inc2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+{
+        
+                "name" : "III",       
+
+                "type" : "Inciso",    
+
+                "numero" : "comunicar que não possui a informação, indicar, se for do seu conhecimento, o órgão ou a entidade que a detém, ou, ainda, remeter o requerimento a esse órgão ou entidade, cientificando o interessado da remessa de seu pedido de informação.",
+
+                "position" : "2",
+            
+                "level"   : "3",
+
+                "key"     : "Z-cap3_s1_art11_p1_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }
+
+           ]
+
+        
+           },
+
+{
+
+        
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",
+
+                "numero" : "O prazo referido no § 1o poderá ser prorrogado por mais 10 (dez) dias, mediante justificativa expressa, da qual será cientificado o requerente.",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art11_p2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           },
+
+{
+        
+
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "Sem prejuízo da segurança e da proteção das informações e do cumprimento da legislação aplicável, o órgão ou entidade poderá oferecer meios para que o próprio requerente possa pesquisar a informação de que necessitar.",
+
+                "position" : "2",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art11_p3",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "§ 4º",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "Quando não for autorizado o acesso por se tratar de informação total ou parcialmente sigilosa, o requerente deverá ser informado sobre a possibilidade de recurso, prazos e condições para sua interposição, devendo, ainda, ser-lhe indicada a autoridade competente para sua apreciação.",
+
+                "position" : "3",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art11_p4",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "§ 5º",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "A informação armazenada em formato digital será fornecida nesse formato, caso haja anuência do requerente.",
+
+                "position" : "4",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art11_p5",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+  {
+        
+
+                "name" : "§ 6º",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "Caso a informação solicitada esteja disponível ao público em formato impresso, eletrônico ou em qualquer outro meio de acesso universal, serão informados ao requerente, por escrito, o lugar e a forma pela qual se poderá consultar, obter ou reproduzir a referida informação, procedimento esse que desonerará o órgão ou entidade pública da obrigação de seu fornecimento direto, salvo se o requerente declarar não dispor de meios para realizar por si mesmo tais procedimentos.",
+
+                "position" : "5",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art11_p6",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           }
+           ]      
+
+           },
+
+           {                   
+
+                "name" : "12.",
+
+                "type" : "ARTIGO",
+          
+                "numero" : "O serviço de busca e fornecimento da informação é gratuito, salvo nas hipóteses de reprodução de documentos pelo órgão ou entidade pública consultada, situação em que poderá ser cobrado exclusivamente o valor necessário ao ressarcimento do custo dos serviços e dos materiais utilizados.",
+
+                "position" : "2",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s1_art12",
+
+                "range" : " ( Parágrafo Único )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  
+                {
+        
+                "name" : "Único",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "Estará isento de ressarcir os custos previstos no caput todo aquele cuja situação econômica não lhe permita fazê-lo sem prejuízo do sustento próprio ou da família, declarada nos termos da Lei no 7.115, de 29 de agosto de 1983.",
+
+                "position" : "0",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art12_pu",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }
+
+           ]
+       
+
+           },
+
+           {                   
+
+                "name" : "13.",
+          
+                "numero" : "Quando se tratar de acesso à informação contida em documento cuja manipulação possa prejudicar sua integridade, deverá ser oferecida a consulta de cópia, com certificação de que esta confere com o original.",
+
+                "type" : "ARTIGO",
+
+                "position" : "3",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s1_art13",
+
+                "range" : " ( Parágrafo Único )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  
+                {
+        
+                "name" : "Único",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "Na impossibilidade de obtenção de cópias, o interessado poderá solicitar que, a suas expensas e sob supervisão de servidor público, a reprodução seja feita por outro meio que não ponha em risco a conservação do documento original.",
+
+                "position" : "0",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s1_art13_pu",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }
+
+           ]        
+
+           },
+
+           {                   
+
+                "name" : "14.",
+
+                "type" : "ARTIGO",
+          
+                "numero" : "É direito do requerente obter o inteiro teor de decisão de negativa de acesso, por certidão ou cópia.",
+
+                "position" : "4",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s1_art14",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+
+        
+
+           }
+
+
+           ]
+
+           }, {
+      
+
+                "name" : "II",
+
+                "type" : "SEÇÃO",
+
+                "numero" : "Dos Recursos",
+
+                "position" : "1",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap3_s2",
+
+                "range" : " (art. 15. ao art. 20.)",
+
+        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+
+                "size" : "7"
+
+        ,
+
+           "children" : [  {
+
+        
+
+                "name" : "15.",
+
+                "numero" : "No caso de indeferimento de acesso a informações ou às razões da negativa do acesso, poderá o interessado interpor recurso contra a decisão no prazo de 10 (dez) dias a contar da sua ciência.",
+
+                "type" : "ARTIGO",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s2_art15",
+
+                "range" : " ( Parágrafo Único )",
+        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+
+            
+               "size" : "2"
+
+        ,
+
+           "children" : [  {
+
+                  
+
+                "name" : "Único",
+
+                "numero" : "O recurso será dirigido à autoridade hierarquicamente superior à que exarou a decisão impugnada, que deverá se manifestar no prazo de 5 (cinco) dias.",
+
+                "type" : "Parágrafo",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art15_pu",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",          
+
+                "size" : "1"
+      
+
+           }
+
+           ]
+
+           }, {
+
+
+
+                "name" : "16.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "Negado o acesso a informação pelos órgãos ou entidades do Poder Executivo Federal, o requerente poderá recorrer à Controladoria-Geral da União, que deliberará no prazo de 5 (cinco) dias se:",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s2_art16",
+ 
+                "range" : " ( Inciso I ao Inciso IV, Parágrafo § 1º ao Parágrafo § 3º )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "3"
+
+        ,
+
+           "children" : [  {
+
+                  
+                "name" : "I",
+
+                "numero" : "o acesso à informação não classificada como sigilosa for negado;",
+
+                "type" : "Inciso",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art16_inc1",
+  
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+
+        
+
+           }, {
+
+                   
+                "name" : "II",
+
+                "numero" : "a decisão de negativa de acesso à informação total ou parcialmente classificada como sigilosa não indicar a autoridade classificadora ou a hierarquicamente superior a quem possa ser dirigido pedido de acesso ou desclassificação;",
+
+                "type" : "Inciso",
+
+                "position" : "1",
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art16_inc2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+       
+
+           }, {       
+           
+
+                "name" : "III",
+
+                "numero" : "os procedimentos de classificação de informação sigilosa estabelecidos nesta Lei não tiverem sido observados; e",
+
+                "type" : "Inciso",
+
+                "position" : "2",         
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art16_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+       
+
+           },
+
+           {       
+           
+                "name" : "IV",
+
+                "numero" : "estiverem sendo descumpridos prazos ou outros procedimentos previstos nesta Lei.",
+
+                "type" : "Inciso",
+
+                "position" : "3",         
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art16_inc4",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"      
+
+           },
+
+           {       
+           
+                "name" : "§ 1º",
+
+                "numero" : "O recurso previsto neste artigo somente poderá ser dirigido à Controladoria-Geral da União depois de submetido à apreciação de pelo menos uma autoridade hierarquicamente superior àquela que exarou a decisão impugnada, que deliberará no prazo de 5 (cinco) dias.",
+
+                "type" : "Parágrafo",
+
+                "position" : "4",         
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art16_p1",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"      
+
+           },
+
+           {       
+           
+                "name" : "§ 2º",
+
+                "numero" : "Verificada a procedência das razões do recurso, a Controladoria-Geral da União determinará ao órgão ou entidade que adote as providências necessárias para dar cumprimento ao disposto nesta Lei.",
+
+                "type" : "Parágrafo",
+
+                "position" : "5",         
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art16_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"      
+
+           },
+
+           {       
+           
+                "name" : "§ 3º",
+
+                "numero" : "Negado o acesso à informação pela Controladoria-Geral da União, poderá ser interposto recurso à Comissão Mista de Reavaliação de Informações, a que se refere o art. 35.",
+
+                "type" : "Parágrafo",
+
+                "position" : "6",         
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art16_p3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"      
+
+           }
+
+           ]
+
+           }, {
+
+
+                "name" : "17.",
+
+                "type" : "ARTIGO",
+        
+                "numero" : "No caso de indeferimento de pedido de desclassificação de informação protocolado em órgão da administração pública federal, poderá o requerente recorrer ao Ministro de Estado da área, sem prejuízo das competências da Comissão Mista de Reavaliação de Informações, previstas no art. 35, e do disposto no art. 16.",
+
+                "position" : "7",         
+
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s2_art17",
+
+                "range" : " (Parágrafo § 1º ao Parágrafo § 2º)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "1"
+
+        ,
+
+           "children" : [  {
+       
+ 
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",          
+
+                "numero" : "O recurso previsto neste ARTIGO somente poderá ser dirigido às autoridades mencionadas depois de submetido à apreciação de pelo menos uma autoridade hierarquicamente superior à autoridade que exarou a decisão impugnada e, no caso das Forças Armadas, ao respectivo Comando.",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art17_p1",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+
+        
+
+           },
+{
+       
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "Indeferido o recurso previsto no caput que tenha como objeto a desclassificação de informação secreta ou ultrassecreta, caberá recurso à Comissão Mista de Reavaliação de Informações prevista no art. 35.",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art17_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           }
+
+
+           ]
+
+           }, 
+
+
+          {        
+
+
+                "name" : "18.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "Os procedimentos de revisão de decisões denegatórias proferidas no recurso previsto no art. 15 e de revisão de classificação de documentos sigilosos serão objeto de regulamentação própria dos Poderes Legislativo e Judiciário e do Ministério Público, em seus respectivos âmbitos, assegurado ao solicitante, em qualquer caso, o direito de ser informado sobre o andamento de seu pedido.",
+
+                "position" : "8",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s2_art18",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "1"
+
+
+           },
+
+
+
+           {
+
+
+                "name" : "19.",
+
+                "type" : "ARTIGO",
+        
+                "numero" : "(VETADO).",
+
+                "position" : "9",         
+
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s2_art19",
+
+                "range" : " (Parágrafo § 1º ao Parágrafo § 2º)",       
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "1"
+
+        ,
+
+           "children" : [  {
+       
+           
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",
+
+                "numero" : "(VETADO).",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art19_p1",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+{
+       
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",           
+
+                "numero" : "Os órgãos do Poder Judiciário e do Ministério Público informarão ao Conselho Nacional de Justiça e ao Conselho Nacional do Ministério Público, respectivamente, as decisões que, em grau de recurso, negarem acesso a informações de interesse público.",
+
+                "position" : "1",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap3_s2_art19_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           }
+
+
+           ]
+
+           }, 
+
+
+
+          {        
+
+
+                "name" : "20.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "Aplica-se subsidiariamente, no que couber, a Lei no 9.784, de 29 de janeiro de 1999, ao procedimento de que trata este Capítulo.",
+
+                "position" : "10",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap3_s2_art20",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "1"
+
+
+           }
+
+           ]
+
+           }
+
+            ]
+
+         }, {
+
+              "name" : "IV",
+
+              "type" : "CAPÍTULO",
+
+              "numero" : "DAS RESTRIÇÕES DE ACESSO À INFORMAÇÃO",
+
+              "size" : "60",
+
+              "color1" : "#A8DBA8",
+
+              "color2" : "#052E4A",
+
+              "range" : " (art. 21. ao art. 31.)",
+
+              "key"   : "Z-cap4",
+
+              "position" : "3",
+
+              "level"   : "-1",
+
+              "children" : [  {
+        
+
+                "name" : "I",
+
+                "type" : "SEÇÃO",
+
+                "numero" : "Disposições Gerais",
+
+                "position" : "0",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap4_s1",
+
+                "range" : " (art. 21. ao art. 22.)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "10"
+
+        ,
+
+           "children" : [  {
+
+                "name" : "21.",
+
+                "type" : "ARTIGO",
+        
+                "numero" : "Não poderá ser negado acesso à informação necessária à tutela judicial ou administrativa de direitos fundamentais.",
+
+                "name" : "21.",
+
+                "type" : "ARTIGO",
+
+                "position" : "0",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s1_art21",
+
+                "range" : " ( Parágrafo Único )",
+        
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "4"
+
+        ,
+
+           "children" : [  {
+
+
+                "name" : "Único",
+
+                "type" : "Parágrafo",        
+
+                "numero" : "As informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos ou a mando de autoridades públicas não poderão ser objeto de restrição de acesso.",           
+
+                "position" : "0",            
+
+                "level"   : "2",
+ 
+                "key"     : "Z-cap4_s1_art21_pu",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }
+           ]
+
+           }, {
+
+        
+                "name" : "22.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "O disposto nesta Lei não exclui as demais hipóteses legais de sigilo e de segredo de justiça nem as hipóteses de segredo industrial decorrentes da exploração direta de atividade econômica pelo Estado ou por pessoa física ou entidade privada que tenha qualquer vínculo com o poder público.",
+
+                "position" : "1",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s1_art22",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",       
+
+                "size" : "3"
+
+
+           }
+
+           ]
+
+           }, {
+
+
+                "name" : "II",
+
+                "type" : "SEÇÃO",
+        
+                "numero" : "Da Classificação da Informação quanto ao Grau e Prazos de Sigilo",
+
+                "position" : "1",
+            
+                "level"   : "0",
+
+                "key"     : "Z-cap4_s2",
+
+                "range" : " (art. 23. ao art. 24.)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "16"
+
+        ,
+
+           "children" : [  {
+   
+
+
+                "name" : "23.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "São consideradas imprescindíveis à segurança da sociedade ou do Estado e, portanto, passíveis de classificação as informações cuja divulgação ou acesso irrestrito possam:",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s2_art23",
+
+                "range" : " ( Inciso I ao Inciso VIII )",       
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "8"
+
+        ,
+
+           "children" : [  {
+
+
+                "name" : "I",
+
+                "type" : "Inciso",
+                   
+                "numero" : "pôr em risco a defesa e a soberania nacionais ou a integridade do território nacional;",
+
+                "position" : "0",        
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art23_inc1",
+
+                "range" : " ( - )",
+       
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           }, {
+
+
+                "name" : "II",
+
+                "type" : "Inciso",
+                  
+                "numero" : "prejudicar ou pôr em risco a condução de negociações ou as relações internacionais do País, ou as que tenham sido fornecidas em caráter sigiloso por outros Estados e organismos internacionais;",
+
+                "position" : "1",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art23_inc2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }, {
+
+                "name" : "III",
+
+                "type" : "Inciso",                  
+
+                "numero" : "pôr em risco a vida, a segurança ou a saúde da população;",
+
+                "position" : "2",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art23_inc3",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }, {
+           
+                "name" : "IV",
+
+                "type" : "Inciso",
+
+                "numero" : "oferecer elevado risco à estabilidade financeira, econômica ou monetária do País;",
+
+                "position" : "3",
+           
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art23_inc4",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }, {
+
+                "name" : "V",
+
+                "type" : "Inciso",
+                
+                "numero" : "prejudicar ou causar risco a planos ou operações estratégicos das Forças Armadas;",
+
+                "position" : "4",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art23_inc5",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }, {
+                  
+
+
+                "name" : "VI",
+
+                "type" : "Inciso",
+
+                "numero" : "prejudicar ou causar risco a projetos de pesquisa e desenvolvimento científico ou tecnológico, assim como a sistemas, bens, instalações ou áreas de interesse estratégico nacional;",
+
+                "position" : "5",            
+
+                "level"   : "2",
+ 
+                "key"     : "Z-cap4_s2_art23_inc6",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",           
+
+                "size" : "1"        
+
+           }, {
+
+
+
+                "name" : "VII",
+
+                "type" : "Inciso",
+                  
+                "numero" : "pôr em risco a segurança de instituições ou de altas autoridades nacionais ou estrangeiras e seus familiares; ou",
+
+                "position" : "6",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art23_inc7",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }, {
+
+
+                "name" : "VIII",
+
+                "type" : "Inciso",
+                  
+                "numero" : "comprometer atividades de inteligência, bem como de investigação ou fiscalização em andamento, relacionadas com a prevenção ou repressão de infrações.",
+
+                "position" : "7",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art23_inc8",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }
+
+           ]
+
+           }, {
+
+
+
+                "name" : "24.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "A informação em poder dos órgãos e entidades públicas, observado o seu teor e em razão de sua imprescindibilidade à segurança da sociedade ou do Estado, poderá ser classificada como ultrassecreta, secreta ou reservada.",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s2_art24",
+
+                "range" : " ( Parágrafo § 1º ao Parágrafo § 5º )",
+        
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+        ,
+
+           "children" : [  {
+
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",
+                   
+                "numero" : "Os prazos máximos de restrição de acesso à informação, conforme a classificação prevista no caput, vigoram a partir da data de sua produção e são os seguintes:",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art24_p1",
+
+                "range" : " ( Inciso I ao Inciso III )",        
+
+                "color" : "#CCCCCC",
+         
+                "size" : "1",
+
+
+           "children" : [  {
+        
+
+                "name" : "I", 
+
+                "type" : "Inciso",
+          
+                "numero" : "ultrassecreta: 25 (vinte e cinco) anos;",
+
+                "position" : "0",          
+    
+                "level"   : "3",
+
+                "key"     : "Z-cap4_s2_art24_p1_inc1",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+           {
+        
+
+                "name" : "II",  
+
+                "type" : "Inciso",         
+
+                "numero" : "secreta: 15 (quinze) anos; e",
+
+                "position" : "1",
+            
+                "level"   : "3",
+
+                "key"     : "Z-cap4_s2_art24_p1_inc2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           },
+
+{
+        
+                "name" : "III",   
+   
+                "type" : "Inciso",     
+
+                "numero" : "reservada: 5 (cinco) anos.",
+
+                "position" : "2",            
+
+                "level"   : "3",
+
+                "key"     : "Z-cap4_s2_art24_p1_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }
+           ]
+        
+
+           },
+
+{
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",                   
+
+                "numero" : "As informações que puderem colocar em risco a segurança do Presidente e Vice-Presidente da República e respectivos cônjuges e filhos(as) serão classificadas como reservadas e ficarão sob sigilo até o término do mandato em exercício ou do último mandato, em caso de reeleição.",
+
+                "position" : "1",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art24_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+         
+                "size" : "1"
+        
+           },
+
+{
+
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",                   
+
+                "numero" : "Alternativamente aos prazos previstos no § 1o, poderá ser estabelecida como termo final de restrição de acesso a ocorrência de determinado evento, desde que este ocorra antes do transcurso do prazo máximo de classificação.",
+
+                "position" : "2",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art24_p3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+         
+                "size" : "1"        
+
+           },
+
+          {
+
+                "name" : "§ 4º",
+
+                "type" : "Parágrafo",
+                   
+                "numero" : "Transcorrido o prazo de classificação ou consumado o evento que defina o seu termo final, a informação tornar-se-á, automaticamente, de acesso público.",
+
+                "position" : "3",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art24_p4",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+         
+                "size" : "1"
+        
+           },
+
+
+           {
+
+                   
+                "name" : "§ 5º",
+
+                "type" : "Parágrafo",
+
+                "numero" : "Para a classificação da informação em determinado grau de sigilo, deverá ser observado o interesse público da informação e utilizado o critério menos restritivo possível, considerados:",
+
+                "position" : "4",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art24_p5",
+
+                "range" : " ( Inciso I ao Inciso II )",        
+
+                "color" : "#CCCCCC",
+         
+                "size" : "1",
+
+
+           "children" : [  {
+        
+                "name" : "I",   
+
+                "type" : "Inciso",
+        
+                "numero" : "a gravidade do risco ou dano à segurança da sociedade e do Estado; e",
+
+                "position" : "0",            
+
+                "level"   : "3",
+
+                 "key"     : "Z-cap4_s2_art24_p5_inc1",
+         
+                 "range" : " ( - )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+           },
+
+
+{
+        
+                "name" : "II",       
+
+                "type" : "Inciso",    
+
+                "numero" : "o prazo máximo de restrição de acesso ou o evento que defina seu termo final.",
+
+                "position" : "1",
+            
+                "level"   : "3",
+
+                "key"     : "Z-cap4_s2_art24_p5_inc2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }
+
+           ]
+
+        
+           }
+           ]
+
+           }
+           ]
+
+           }, 
+
+
+{
+
+                "name" : "III",
+
+                "type" : "SEÇÃO",
+        
+                "numero" : "Da Proteção e do Controle de Informações Sigilosas ",
+
+                "position" : "2",
+            
+                "level"   : "0",
+
+                "key"     : "Z-cap4_s3",
+
+                "range" : " (art. 25. ao art. 26.)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "16"
+
+        ,
+
+           "children" : [  {
+   
+
+
+                "name" : "25.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "É dever do Estado controlar o acesso e a divulgação de informações sigilosas produzidas por seus órgãos e entidades, assegurando a sua proteção.      (Regulamento)",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s3_art25",
+
+                "range" : " ( Parágrafo § 1º ao Parágrafo § 3º )",       
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "8"
+
+        ,
+
+           "children" : [  {
+
+
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",
+                   
+                "numero" : "O acesso, a divulgação e o tratamento de informação classificada como sigilosa ficarão restritos a pessoas que tenham necessidade de conhecê-la e que sejam devidamente credenciadas na forma do regulamento, sem prejuízo das atribuições dos agentes públicos autorizados por lei.",
+
+                "position" : "0",        
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art25_p1",
+
+                "range" : " ( - )",
+       
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }, {
+
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",
+                  
+                "numero" : "O acesso à informação classificada como sigilosa cria a obrigação para aquele que a obteve de resguardar o sigilo.",
+
+                "position" : "1",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art25_p2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }, {
+
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",                
+
+                "numero" : "Regulamento disporá sobre procedimentos e medidas a serem adotados para o tratamento de informação sigilosa, de modo a protegê-la contra perda, alteração indevida, acesso, transmissão e divulgação não autorizados.",
+
+                "position" : "2",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art25_p3",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }
+
+           ]
+
+           }, {
+
+                "name" : "26.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "As autoridades públicas adotarão as providências necessárias para que o pessoal a elas subordinado hierarquicamente conheça as normas e observe as medidas e procedimentos de segurança para tratamento de informações sigilosas.",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s3_art26",
+
+                "range" : " ( Parágrafo Único )",
+        
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+        ,
+
+           "children" : [  {
+
+                "name" : "Único",
+
+                "type" : "Parágrafo",
+                   
+                "numero" : "A pessoa física ou entidade privada que, em razão de qualquer vínculo com o poder público, executar atividades de tratamento de informações sigilosas adotará as providências necessárias para que seus empregados, prepostos ou representantes observem as medidas e procedimentos de segurança das informações resultantes da aplicação desta Lei.",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s2_art26_pu",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+         
+                "size" : "1"
+
+           }
+
+           ]
+           }
+           ]
+           },
+
+
+           {
+        
+
+                "name" : "IV",
+
+                "type" : "SEÇÃO",
+
+                "numero" : "Dos Procedimentos de Classificação, Reclassificação e Desclassificação",
+
+                "position" : "3",
+           
+                 "level"   : "0",
+
+                 "key"     : "Z-cap4_s4",
+
+                 "range" : " (art. 27. ao art. 30.)",    
+
+                 "color1" : "#A8DBA8",
+ 
+                 "color2" : "#052E4A",            
+
+                 "size" : "35"
+
+        ,
+
+           "children" : [  {
+     
+
+
+                "name" : "27.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "A classificação do sigilo de informações no âmbito da administração pública federal é de competência:   (Regulamento)",
+
+                "position" : "0",           
+
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s4_art27",
+
+                "range" : " ( Inciso I ao Inciso III, Parágrafo § 1o ao Parágrafo § 3o )",
+       
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",          
+
+                "size" : "9"
+
+        ,
+
+           "children" : [  {
+
+
+                "name" : "I",
+
+                "type" : "Inciso",
+
+                "numero" : "no grau de ultrassecreto, das seguintes autoridades:",                 
+
+                "position" : "0",           
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art27_inc1",
+
+                "range" : " ( Alínea a até Alínea e )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  {
+        
+
+                "name" : "a)",    
+
+                "type" : "Alínea",
+       
+                "numero" : "Presidente da República;",
+
+                "position" : "0",            
+
+                "level"   : "3",
+
+                 "key"     : "Z-cap4_s4_art27_inc1_a1",
+         
+                 "range" : " ( - )",        
+
+                 "color" : "#CCCCCC",            
+
+                 "size" : "1"        
+
+           },
+
+{
+        
+                "name" : "b)",   
+
+                "type" : "Alínea",
+        
+                "numero" : "Vice-Presidente da República;",
+
+                "position" : "1",
+            
+                "level"   : "3",
+
+                "key"     : "Z-cap4_s4_art27_inc1_a2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           },
+
+{        
+
+                "name" : "c)",       
+
+                "type" : "Alínea",    
+
+                "numero" : "Ministros de Estado e autoridades com as mesmas prerrogativas;",
+
+                "position" : "2",
+            
+                "level"   : "3",
+
+                "key"     : "Z-cap4_s4_art27_inc1_a3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+{
+
+        
+                "name" : "d)",      
+
+                "type" : "Alínea",
+     
+                "numero" : "Comandantes da Marinha, do Exército e da Aeronáutica; e",
+
+                "position" : "3",
+            
+                "level"   : "3",
+
+                "key"     : "Z-cap4_s4_art27_inc1_a4",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           },
+
+{
+        
+
+                "name" : "e)",       
+
+                "type" : "Alínea",    
+
+                "numero" : "Chefes de Missões Diplomáticas e Consulares permanentes no exterior;",
+
+                "position" : "4",
+            
+                "level"   : "3",
+
+                "key"     : "Z-cap4_s4_art27_inc1_a5",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }
+
+           ]
+        
+
+           }, {
+
+                "name" : "II",
+
+                "type" : "Inciso",
+                  
+                "numero" : "no grau de secreto, das autoridades referidas no Inciso I, dos titulares de autarquias, fundações ou empresas públicas e sociedades de economia mista; e ",                 
+
+                "position" : "1",           
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art27_inc2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+          
+                "size" : "1"       
+
+           }, {        
+           
+                "name" : "III",
+
+                "type" : "Inciso",
+
+                "numero" : "no grau de reservado, das autoridades referidas nos Incisos I e II e das que exerçam funções de direção, comando ou chefia, nível DAS 101.5, ou superior, do Grupo-Direção e Assessoramento Superiores, ou de hierarquia equivalente, de acordo com regulamentação específica de cada órgão ou entidade, observado o disposto nesta Lei.",                 
+
+                "position" : "2",
+           
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art27_inc3",
+
+                "range" : " ( - )",
+        
+
+                "color" : "#CCCCCC",
+           
+
+                "size" : "1"
+             
+             },
+
+             {
+        
+                "name" : "§ 1º",           
+
+                "type" : "Parágrafo",
+
+                "numero" : "A competência prevista nos Incisos I e II, no que se refere à classificação como ultrassecreta e secreta, poderá ser delegada pela autoridade responsável a agente público, inclusive em missão no exterior, vedada a subdelegação.",
+
+                "position" : "3",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap4_s4_art27_p1",
+         
+                 "range" : " ( - )",        
+
+                 "color" : "#CCCCCC",            
+
+                 "size" : "1"        
+
+           },
+
+{       
+
+                "name" : "§ 2º",   
+
+                "type" : "Parágrafo",        
+
+                "numero" : "A classificação de informação no grau de sigilo ultrassecreto pelas autoridades previstas nas alíneas “d” e “e” do Inciso I deverá ser ratificada pelos respectivos Ministros de Estado, no prazo previsto em regulamento.",
+
+                "position" : "4",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art27_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+{
+        
+
+                "name" : "§ 3º",         
+
+                "type" : "Parágrafo",  
+
+                "numero" : "A autoridade ou outro agente público que classificar informação como ultrassecreta deverá encaminhar a decisão de que trata o art. 28 à Comissão Mista de Reavaliação de Informações, a que se refere o art. 35, no prazo previsto em regulamento.",
+
+                "position" : "5",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art27_p3",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           }
+      
+           ]
+
+           }, {
+
+        
+                "name" : "28.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "A classificação de informação em qualquer grau de sigilo deverá ser formalizada em decisão que conterá, no mínimo, os seguintes elementos:",
+
+                "position" : "1",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s4_art28",
+
+                "range" : " ( Inciso I ao Inciso IV, Parágrafo Único )",
+        
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "3"
+
+        ,
+
+           "children" : [  {
+
+
+                "name" : "I",
+
+                "type" : "Inciso",
+                
+                "numero" : "assunto sobre o qual versa a informação;",
+
+                "position" : "0",          
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art28_inc1",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",      
+
+                "size" : "1"        
+
+           }, {
+      
+ 
+                "name" : "II",
+
+                "type" : "Inciso",
+          
+                "numero" : "fundamento da classificação, observados os critérios estabelecidos no art. 24;",
+
+                "position" : "1",        
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art28_inc2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",        
+
+                "size" : "1"        
+
+           }, 
+           {
+                   
+                "name" : "III",
+
+                "type" : "Inciso",
+
+                "numero" : "indicação do prazo de sigilo, contado em anos, meses ou dias, ou do evento que defina o seu termo final, conforme limites previstos no art. 24; e",
+
+                "position" : "2",
+          
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art28_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+           {
+                   
+
+                "name" : "IV",
+
+                "type" : "Inciso",
+
+                "numero" : "identificação da autoridade que a classificou.",
+
+                "position" : "3",
+          
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art28_inc4",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+           {
+                   
+
+                "name" : "Único",
+
+                "type" : "Parágrafo",
+
+                "numero" : "A decisão referida no caput será mantida no mesmo grau de sigilo da informação classificada.",
+
+                "position" : "4",
+          
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art28_pu",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+     
+           }
+
+
+           ]
+
+           }, {
+
+
+                "name" : "29.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "A classificação das informações será reavaliada pela autoridade classificadora ou por autoridade hierarquicamente superior, mediante provocação ou de ofício, nos termos e prazos previstos em regulamento, com vistas à sua desclassificação ou à redução do prazo de sigilo, observado o disposto no art. 24.   (Regulamento)",
+
+                "position" : "2",           
+
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s4_art29",
+
+                "range" : " ( Parágrafo § 1º ao Parágrafo § 3º )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",           
+
+                "size" : "2"
+
+        ,
+
+           "children" : [  {
+
+
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",
+                  
+                "numero" : "O regulamento a que se refere o caput deverá considerar as peculiaridades das informações produzidas no exterior por autoridades ou agentes públicos.",
+
+                "position" : "0",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art29_p1",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+          
+                "size" : "1"
+        
+           }, {        
+
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",
+           
+                "numero" : "Na reavaliação a que se refere o caput, deverão ser examinadas a permanência dos motivos do sigilo e a possibilidade de danos decorrentes do acesso ou da divulgação da informação.",
+
+                "position" : "1",          
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art29_p2",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+
+           }, {        
+
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",
+           
+                "numero" : "Na hipótese de redução do prazo de sigilo da informação, o novo prazo de restrição manterá como termo inicial a data da sua produção.",
+
+                "position" : "2",          
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art29_p3",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }
+
+           ]
+
+           }, {
+
+        
+               "name" : "30.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "A autoridade máxima de cada órgão ou entidade publicará, anualmente, em sítio à disposição na internet e destinado à veiculação de dados e informações administrativas, nos termos de regulamento:",
+ 
+                "position" : "3",           
+ 
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s4_art30",
+
+                "range" : " (Inciso I ao Inciso III, Parágrafo § 1º a Parágrafo § 2º )",      
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "5"
+
+        ,
+
+           "children" : [  {        
+           
+
+                "name" : "I",
+
+                "type" : "Inciso",
+
+                "numero" : "rol das informações que tenham sido desclassificadas nos últimos 12 (doze) meses;",
+
+                "position" : "0",
+          
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art30_inc1",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }, {       
+           
+                "name" : "II",
+
+                "type" : "Inciso",
+
+                "numero" : "rol de documentos classificados em cada grau de sigilo, com identificação para referência futura;",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art30_inc2",
+ 
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+     
+           }, {
+         
+
+                "name" : "III",
+
+                "type" : "Inciso",
+
+                "numero" : "relatório estatístico contendo a quantidade de pedidos de informação recebidos, atendidos e indeferidos, bem como informações genéricas sobre os solicitantes.",
+
+                "position" : "2",          
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art30_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+     
+            },
+            {
+        
+
+                "name" : "§ 1º",  
+
+                "type" : "Parágrafo",
+         
+                "numero" : "Os órgãos e entidades deverão manter exemplar da publicação prevista no caput para consulta pública em suas sedes.",
+
+                "position" : "3",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap4_s4_art30_p1",
+         
+                 "range" : " ( )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+           },
+
+           {
+        
+                "name" : "§ 2º",      
+
+                "type" : "Parágrafo",     
+
+                "numero" : "Os órgãos e entidades manterão extrato com a lista de informações classificadas, acompanhadas da data, do grau de sigilo e dos fundamentos da classificação.",
+
+                "position" : "4",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s4_art30_p2",
+
+                "range" : " ( )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+           }
+
+
+           ]
+
+           }
+
+           ]
+
+           }, {
+
+        
+
+                "numero" : "Das Informações Pessoais",
+
+                "name" : "V",
+
+                "type" : "SEÇÃO",
+
+                "position" : "3",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap4_s5",
+
+                "range" : " (art. 131)",
+        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+
+                "size" : "9"
+
+        ,
+
+           "children" : [  {
+       
+
+                "numero" : "O tratamento das informações pessoais deve ser feito de forma transparente e com respeito à intimidade, vida privada, honra e imagem das pessoas, bem como às liberdades e garantias individuais.",
+
+                "name" : "31.",
+
+                "type" : "ARTIGO",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s5_art31",
+
+                "range" : " ( Parágrafo § 1º a Parágrafo § 5º )",
+        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+
+                "size" : "4"
+
+        ,
+
+           "children" : [  {      
+           
+
+
+                "numero" : "As informações pessoais, a que se refere este ARTIGO, relativas à intimidade, vida privada, honra e imagem:",
+
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s5_art31_p1",
+
+                "range" : " ( Inciso I ao Inciso II )",     
+
+                "color" : "#CCCCCC",           
+
+                 "size" : "1",
+
+           "children" : [  {  
+
+           
+                "numero" : "terão seu acesso restrito, independentemente de classificação de sigilo e pelo prazo máximo de 100 (cem) anos a contar da sua data de produção, a agentes públicos legalmente autorizados e à pessoa a que elas se referirem; e",
+
+                "name" : "I",
+
+                "type" : "Inciso",
+
+                "position" : "1",
+            
+               "level"   : "2",
+
+               "key"     : "Z-cap4_s5_art31_p1_inc1",
+
+               "range" : " ( - )",        
+
+               "color" : "#CCCCCC",
+            
+
+               "size" : "1"
+        
+
+           }, {      
+         
+                "numero" : "poderão ter autorizada sua divulgação ou acesso por terceiros diante de previsão legal ou consentimento expresso da pessoa a que elas se referirem.",
+
+                "name" : "II",
+
+                "type" : "Inciso",
+
+                "position" : "2",
+          
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s5_art31_p1_inc2",
+
+                "range" : " ( - )",
+       
+
+                "color" : "#CCCCCC",
+           
+
+                "size" : "1"
+        
+
+           }
+
+           ]
+           },
+
+           {
+      
+
+                "numero" : "Aquele que obtiver acesso às informações de que trata este ARTIGO será responsabilizado por seu uso indevido.",
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",
+
+                "position" : "1",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s5_art31_p2",
+
+                "range" : " ( - )",      
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+           
+
+                "size" : "2"
+
+           },
+
+
+           {
+      
+                "numero" : "O consentimento referido no Inciso II do § 1o não será exigido quando as informações forem necessárias:",
+
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",
+
+                "position" : "2",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s5_art31_p3",
+
+                "range" : " ( Inciso I ao Inciso V )",      
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+           
+
+                "size" : "2",
+
+           "children" : [  {
+
+        
+
+                "name" : "I",           
+
+                "numero" : "à prevenção e diagnóstico médico, quando a pessoa estiver física ou legalmente incapaz, e para utilização única e exclusivamente para o tratamento médico;",
+
+                "type" : "Inciso",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                 "key"     : "Z-cap4_s5_art31_p3_inc1",
+         
+                 "range" : " ( )",
+        
+
+                 "color" : "#CCCCCC",
+            
+
+                 "size" : "1"
+        
+
+           },
+
+{
+
+        
+
+                "name" : "II",           
+
+                "numero" : "à realização de estatísticas e pesquisas científicas de evidente interesse público ou geral, previstos em lei, sendo vedada a identificação da pessoa a que as informações se referirem;",
+
+                "type" : "Inciso",
+
+                "position" : "0",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s5_art31_p3_inc2",
+
+                "range" : " ( )",
+        
+
+                "color" : "#CCCCCC",
+            
+
+                "size" : "1"
+        
+
+           },
+
+{
+
+        
+
+                "name" : "III",           
+
+                "numero" : "ao cumprimento de ordem judicial;",
+
+                "type" : "Inciso",
+
+                "position" : "0",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s5_art31_p3_inc3",
+
+                "range" : " ( )",
+        
+
+                "color" : "#CCCCCC",
+            
+
+                "size" : "1"
+        
+
+           },
+
+{
+
+        
+
+                "name" : "IV",           
+
+                "numero" : "à defesa de direitos humanos; ou",
+
+                "type" : "Inciso",
+
+                "position" : "0",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s5_art31_p3_inc4",
+
+                "range" : " ( )",
+        
+
+                "color" : "#CCCCCC",
+            
+
+                "size" : "1"
+        
+
+           },
+
+{
+        
+
+                "name" : "V",           
+
+                "numero" : "à proteção do interesse público e geral preponderante.",
+
+                "type" : "Inciso",
+
+                "position" : "0",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap4_s5_art31_p3_inc5",
+
+                "range" : " ( )",
+        
+
+                "color" : "#CCCCCC",
+            
+
+                "size" : "1"
+        
+
+           }
+
+           ]
+
+           },
+
+           {
+      
+                "numero" : "A restrição de acesso à informação relativa à vida privada, honra e imagem de pessoa não poderá ser invocada com o intuito de prejudicar processo de apuração de irregularidades em que o titular das informações estiver envolvido, bem como em ações voltadas para a recuperação de fatos históricos de maior relevância.",
+
+                "name" : "§ 4º",
+
+                "type" : "Parágrafo",
+
+                "position" : "3",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s5_art31_p4",
+
+                "range" : " ( - )",      
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+           
+
+                "size" : "2"
+
+           },
+
+ 
+           {
+      
+                "numero" : "Regulamento disporá sobre os procedimentos para tratamento de informação pessoal.",
+
+                "name" : "§ 5º",
+
+                "type" : "Parágrafo",
+
+                "position" : "4",            
+
+                "level"   : "2",
+
+                "key"     : "Z-cap4_s5_art31_p5",
+
+                "range" : " ( - )",      
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+           
+
+                "size" : "2"
+
+           }
+
+           ]
+
+           }
+           ]
+
+           }
+
+            ]
+         }, {
+
+              "name" : "V",
+
+              "type" : "CAPÍTULO",
+
+              "numero" : "DAS RESPONSABILIDADES",
+
+              "size" : "19",
+
+              "color1" : "#A8DBA8",
+
+              "color2" : "#052E4A",
+
+              "range" : " (art. 32. ao art. 34.)",
+
+              "key"   : "Z-cap5",
+
+              "position" : "4",
+
+              "level"   : "-1",
+
+              "children" : [  {
+        
+
+                "name" : "32.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "Constituem condutas ilícitas que ensejam responsabilidade do agente público ou militar:",
+
+                "position" : "0",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap5_art32",
+
+                "range" : " (Inciso I ao Inciso VII, Parágrafo § 1º ao Parágrafo § 2º )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "12"
+
+        ,
+
+           "children" : [  {       
+           
+                "name" : "I",
+
+                "type" : "Inciso",
+
+                "numero" : "recusar-se a fornecer informação requerida nos termos desta Lei, retardar deliberadamente o seu fornecimento ou fornecê-la intencionalmente de forma incorreta, incompleta ou imprecisa;",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_inc1",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }, {
+
+                "name" : "II",
+
+                "type" : "Inciso",
+               
+                "numero" : "utilizar indevidamente, bem como subtrair, destruir, inutilizar, desfigurar, alterar ou ocultar, total ou parcialmente, informação que se encontre sob sua guarda ou a que tenha acesso ou conhecimento em razão do exercício das atribuições de cargo, emprego ou função pública;",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_inc2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }, {
+
+                "name" : "III",
+
+                "type" : "Inciso",                   
+
+                "numero" : "agir com dolo ou má-fé na análise das solicitações de acesso à informação;",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"        
+
+           }, {
+                   
+
+                "name" : "IV",
+
+                "type" : "Inciso",   
+
+                "numero" : "divulgar ou permitir a divulgação ou acessar ou permitir acesso indevido à informação sigilosa ou informação pessoal;",
+
+                "position" : "3",
+          
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_inc4",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }, {
+
+        
+                "name" : "V",
+
+                "type" : "Inciso",  
+           
+                "numero" : "impor sigilo à informação para obter proveito pessoal ou de terceiro, ou para fins de ocultação de ato ilegal cometido por si ou por outrem;",
+
+                "position" : "4",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_inc5",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"        
+
+           }, {
+
+        
+                "name" : "VI",
+
+                "type" : "Inciso",  
+
+                "numero" : "ocultar da revisão de autoridade superior competente informação sigilosa para beneficiar a si ou a outrem, ou em prejuízo de terceiros; e", 
+           
+                "position" : "5",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_inc6",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }, {
+
+        
+                "name" : "VII",
+
+                "type" : "Inciso",  
+           
+                "numero" : "destruir ou subtrair, por qualquer meio, documentos concernentes a possíveis violações de direitos humanos por parte de agentes do Estado.",
+
+                "position" : "6",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_inc7",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }, {
+
+        
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",  
+           
+                "numero" : "Atendido o princípio do contraditório, da ampla defesa e do devido processo legal, as condutas descritas no caput serão consideradas:",
+
+                "position" : "7",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_p1",
+
+                "range" : " ( Inciso I ao Inciso II )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  {
+
+        
+                "name" : "I",   
+
+                "type" : "Inciso",
+        
+                "numero" : "para fins dos regulamentos disciplinares das Forças Armadas, transgressões militares médias ou graves, segundo os critérios neles estabelecidos, desde que não tipificadas em lei como crime ou contravenção penal; ou",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap5_art32_p1_inc1",
+         
+                 "range" : " ( - )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+           },
+
+{
+        
+                "name" : "II",       
+
+                "type" : "Inciso",    
+
+                "numero" : "para fins do disposto na Lei no 8.112, de 11 de dezembro de 1990, e suas alterações, infrações administrativas, que deverão ser apenadas, no mínimo, com suspensão, segundo os critérios nela estabelecidos.",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap5_art32_p1_inc2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }
+
+           ]        
+
+           }, {
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",          
+           
+                "numero" : "Pelas condutas descritas no caput, poderá o militar ou agente público responder, também, por improbidade administrativa, conforme o disposto nas Leis nos 1.079, de 10 de abril de 1950, e 8.429, de 2 de junho de 1992.",
+
+                "position" : "8",           
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art32_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }
+
+           ]
+
+           }, {
+
+        
+                "name" : "33.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "A pessoa física ou entidade privada que detiver informações em virtude de vínculo de qualquer natureza com o poder público e deixar de observar o disposto nesta Lei estará sujeita às seguintes sanções:",
+
+                "position" : "1",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap5_art33",
+
+                "range" : " ( Inciso I ao Inciso V, Parágrafo § 1º ao Parágrafo § 3º )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "2"
+
+        ,
+
+           "children" : [  {
+
+        
+                "name" : "I",
+
+                "type" : "Inciso",           
+
+                "numero" : "advertência;",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art33_inc1",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }, 
+           {
+        
+                "name" : "II",
+
+                "type" : "Inciso",             
+
+                "numero" : "multa;",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art33_inc2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+           {
+        
+                "name" : "III",
+
+                "type" : "Inciso",             
+
+                "numero" : "rescisão do vínculo com o poder público;",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art33_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+           {
+        
+                "name" : "IV",
+
+                "type" : "Inciso",             
+
+                "numero" : "suspensão temporária de participar em licitação e impedimento de contratar com a administração pública por prazo não superior a 2 (dois) anos; e",
+
+                "position" : "3",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art33_inc4",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+           {
+        
+                "name" : "V",
+
+                "type" : "Inciso",             
+
+                "numero" : "declaração de inidoneidade para licitar ou contratar com a administração pública, até que seja promovida a reabilitação perante a própria autoridade que aplicou a penalidade.",
+
+                "position" : "4",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art33_inc5",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"           
+
+           },
+
+
+           {
+        
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",             
+
+                "numero" : "As sanções previstas nos incisos I, III e IV poderão ser aplicadas juntamente com a do inciso II, assegurado o direito de defesa do interessado, no respectivo processo, no prazo de 10 (dez) dias.",
+
+                "position" : "5",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art33_p1",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"           
+
+           },
+
+           {
+        
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",             
+
+                "numero" : "A reabilitação referida no inciso V será autorizada somente quando o interessado efetivar o ressarcimento ao órgão ou entidade dos prejuízos resultantes e após decorrido o prazo da sanção aplicada com base no inciso IV.",
+
+                "position" : "6",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art33_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"           
+
+           },
+
+           {
+        
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",             
+
+                "numero" : "A aplicação da sanção prevista no inciso V é de competência exclusiva da autoridade máxima do órgão ou entidade pública, facultada a defesa do interessado, no respectivo processo, no prazo de 10 (dez) dias da abertura de vista.",
+
+                "position" : "7",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art33_p3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"           
+
+           }
+
+
+           ]
+
+           }, {
+
+
+                "name" : "34.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "Os órgãos e entidades públicas respondem diretamente pelos danos causados em decorrência da divulgação não autorizada ou utilização indevida de informações sigilosas ou informações pessoais, cabendo a apuração de responsabilidade funcional nos casos de dolo ou culpa, assegurado o respectivo direito de regresso.",
+
+                "position" : "2",           
+  
+                "level"   : "0",
+
+                "key"     : "Z-cap5_art34",
+
+                "range" : " ( Parágrafo Único )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "8"
+
+        ,
+
+           "children" : [  {
+
+        
+                "name" : "Único",
+
+                "type" : "Parágrafo",  
+           
+                "numero" : "O disposto neste artigo aplica-se à pessoa física ou entidade privada que, em virtude de vínculo de qualquer natureza com órgãos ou entidades, tenha acesso a informação sigilosa ou pessoal e a submeta a tratamento indevido.",
+
+                "position" : "0",
+            
+                "level"   : "1",
+
+                "key"     : "Z-cap5_art34_pu",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }
+
+           ]
+
+           }
+            ]
+
+         }, {
+
+              "name" : "VI",
+
+              "type" : "CAPÍTULO",
+
+              "numero" : "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+
+              "size" : "37",
+
+              "color1" : "#A8DBA8",
+
+              "color2" : "#052E4A",
+
+              "range" : " (art. 35. ao art. 47.)",
+
+              "key"   : "Z-cap6",
+
+              "position" : "5",
+
+              "level"   : "-1",
+
+              "children" : [  {
+        
+
+                "name" : "35.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "(VETADO).",
+
+                "position" : "0",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art35",
+
+                "range" : " ( Parágrafo § 1º ao Parágrafo § 5º )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+        ,
+
+           "children" : [  
+         {        
+
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",          
+
+                "numero" : "É instituída a Comissão Mista de Reavaliação de Informações, que decidirá, no âmbito da administração pública federal, sobre o tratamento e a classificação de informações sigilosas e terá competência para:",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art35_p1",
+
+                "range" : " ( Inciso I ao Inciso III )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1",
+
+           "children" : [  {
+
+        
+                "name" : "I",   
+
+                "type" : "Inciso",
+        
+                "numero" : "requisitar da autoridade que classificar informação como ultrassecreta e secreta esclarecimento ou conteúdo, parcial ou integral da informação;",
+
+                "position" : "0",            
+
+                "level"   : "2",
+
+                 "key"     : "Z-cap6_art35_p1_inc1",
+         
+                 "range" : " ( - )",
+        
+                 "color" : "#CCCCCC",
+            
+                 "size" : "1"
+        
+           },
+
+{
+        
+
+                "name" : "II",      
+
+                "type" : "Inciso",     
+
+                "numero" : "rever a classificação de informações ultrassecretas ou secretas, de ofício ou mediante provocação de pessoa interessada, observado o disposto no art. 7o e demais dispositivos desta Lei; e",
+
+                "position" : "1",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap6_art35_p1_inc2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+                "size" : "1"
+        
+
+           },
+
+{
+        
+                "name" : "III",       
+
+                "type" : "Inciso",    
+
+                "numero" : "prorrogar o prazo de sigilo de informação classificada como ultrassecreta, sempre por prazo determinado, enquanto o seu acesso ou divulgação puder ocasionar ameaça externa à soberania nacional ou à integridade do território nacional ou grave risco às relações internacionais do País, observado o prazo previsto no § 1o do art. 24.",
+
+                "position" : "2",
+            
+                "level"   : "2",
+
+                "key"     : "Z-cap6_art35_p1_inc3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           }
+
+           ]
+        
+
+           },
+
+         {        
+
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",          
+
+                "numero" : "O prazo referido no inciso III é limitado a uma única renovação.",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art35_p2",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+         {        
+
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",          
+
+                "numero" : "A revisão de ofício a que se refere o inciso II do § 1o deverá ocorrer, no máximo, a cada 4 (quatro) anos, após a reavaliação prevista no art. 39, quando se tratar de documentos ultrassecretos ou secretos.",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art35_p3",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+         {        
+
+                "name" : "§ 4º",
+
+                "type" : "Parágrafo",          
+
+                "numero" : "A não deliberação sobre a revisão pela Comissão Mista de Reavaliação de Informações nos prazos previstos no § 3o implicará a desclassificação automática das informações.",
+
+                "position" : "3",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art35_p4",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           },
+
+         {        
+
+                "name" : "§ 5º",
+
+                "type" : "Parágrafo",          
+
+                "numero" : "Regulamento disporá sobre a composição, organização e funcionamento da Comissão Mista de Reavaliação de Informações, observado o mandato de 2 (dois) anos para seus integrantes e demais disposições desta Lei.  (Regulamento)",
+
+                "position" : "4",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art35_p5",
+
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }
+
+           ]
+
+           }, {
+
+                "name" : "36.",
+
+                "type" : "ARTIGO",       
+
+                "numero" : "O tratamento de informação sigilosa resultante de tratados, acordos ou atos internacionais atenderá às normas e recomendações constantes desses instrumentos.",
+
+                "position" : "1",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art36",
+ 
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "5"
+
+           }, {
+      
+                "name" : "37.",
+
+                "type" : "ARTIGO",       
+
+                "numero" : "É instituído, no âmbito do Gabinete de Segurança Institucional da Presidência da República, o Núcleo de Segurança e Credenciamento (NSC), que tem por objetivos:       (Regulamento)",
+
+                "position" : "2",
+            
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art37",
+
+                "range" : " (Inciso I ao Inciso II, Parágrafo Único)",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "13"
+        ,
+
+           "children" : [  {
+        
+
+                "name" : "I",
+
+                "type" : "Inciso",
+
+                "numero" : "promover e propor a regulamentação do credenciamento de segurança de pessoas físicas, empresas, órgãos e entidades para tratamento de informações sigilosas; e",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art37_Inc1",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+           }, {
+
+ 
+                "name" : "II",
+
+                "type" : "Inciso",
+       
+                "numero" : "garantir a segurança de informações sigilosas, inclusive aquelas provenientes de países ou organizações internacionais com os quais a República Federativa do Brasil tenha firmado tratado, acordo, contrato ou qualquer outro ato internacional, sem prejuízo das atribuições do Ministério das Relações Exteriores e dos demais órgãos competentes.",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art37_Inc2",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "2"
+
+           }, {
+        
+                "name" : "Único",
+
+                "type" : "Parágrafo",
+
+                "numero" : "Regulamento disporá sobre a composição, organização e funcionamento do NSC.",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art37_pu",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+           }
+
+           ]
+
+           }, {        
+
+                "name" : "38.",
+
+                "type" : "ARTIGO",
+
+                "numero" : "Aplica-se, no que couber, a Lei no 9.507, de 12 de novembro de 1997, em relação à informação de pessoa, física ou jurídica, constante de registro ou banco de dados de entidades governamentais ou de caráter público.",
+
+                "position" : "3",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art38",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "2"
+
+           }, {     
+
+                "name" : "39.",
+
+                "type" : "ARTIGO",   
+
+                "numero" : "Os órgãos e entidades públicas deverão proceder à reavaliação das informações classificadas como ultrassecretas e secretas no prazo máximo de 2 (dois) anos, contado do termo inicial de vigência desta Lei.",
+
+                "position" : "4",            
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art39",
+
+                "range" : " ( Parágrafo § 1º ao Parágrafo § 4º )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",
+            
+                "size" : "5"
+
+        ,
+
+           "children" : [  {
+
+                "name" : "§ 1º",
+
+                "type" : "Parágrafo",        
+           
+                "numero" : "A restrição de acesso a informações, em razão da reavaliação prevista no caput, deverá observar os prazos e condições previstos nesta Lei.",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art39_p1",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",
+            
+               "size" : "1"        
+
+           }, {
+
+ 
+                "name" : "§ 2º",
+
+                "type" : "Parágrafo",      
+                  
+                "numero" : "No âmbito da administração pública federal, a reavaliação prevista no caput poderá ser revista, a qualquer tempo, pela Comissão Mista de Reavaliação de Informações, observados os termos desta Lei.",
+
+                "position" : "1",           
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art39_p2",
+
+                "range" : " ( - )",
+        
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }, {
+
+        
+                "name" : "§ 3º",
+
+                "type" : "Parágrafo",               
+
+                "numero" : "Enquanto não transcorrido o prazo de reavaliação previsto no caput, será mantida a classificação da informação nos termos da legislação precedente.",
+
+                "position" : "2",            
+
+                "level"   : "1",
+  
+                "key"     : "Z-cap6_art39_p3",
+ 
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"        
+
+           }, {
+
+
+                "name" : "§ 4º",
+
+                "type" : "Parágrafo",   
+                  
+                "numero" : "As informações classificadas como secretas e ultrassecretas não reavaliadas no prazo previsto no caput serão consideradas, automaticamente, de acesso público.",
+
+                "position" : "3",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art39_p4",
+  
+                "range" : " ( - )",        
+
+                "color" : "#CCCCCC",
+            
+                "size" : "1"        
+
+           }
+           ]
+
+           }, {
+
+
+                "name" : "40.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "No prazo de 60 (sessenta) dias, a contar da vigência desta Lei, o dirigente máximo de cada órgão ou entidade da administração pública federal direta e indireta designará autoridade que lhe seja diretamente subordinada para, no âmbito do respectivo órgão ou entidade, exercer as seguintes atribuições:",
+
+                "position" : "5",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art40",
+
+                "range" : " ( Inciso I ao Inciso IV )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+        ,
+
+           "children" : [ 
+
+          {
+        
+                "name" : "I",
+
+                "type" : "Inciso",               
+
+                "numero" : "assegurar o cumprimento das normas relativas ao acesso a informação, de forma eficiente e adequada aos objetivos desta Lei;",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art40_inc1",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+
+          {
+        
+                "name" : "II",
+
+                "type" : "Inciso",               
+
+                "numero" : "monitorar a implementação do disposto nesta Lei e apresentar relatórios periódicos sobre o seu cumprimento;",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art40_inc2",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+           
+           },
+
+          {
+        
+                "name" : "III",
+
+                "type" : "Inciso",               
+
+                "numero" : "recomendar as medidas indispensáveis à implementação e ao aperfeiçoamento das normas e procedimentos necessários ao correto cumprimento do disposto nesta Lei; e",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art40_inc3",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+           
+           },
+
+          {
+        
+                "name" : "IV",
+
+                "type" : "Inciso",               
+
+                "numero" : "orientar as respectivas unidades no que se refere ao cumprimento do disposto nesta Lei e seus regulamentos.",
+
+                "position" : "3",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art40_inc4",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+           
+           }
+
+           ]
+
+           },
+
+
+
+           {
+
+
+                "name" : "41.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "O Poder Executivo Federal designará órgão da administração pública federal responsável:",
+
+                "position" : "6",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art41",
+
+                "range" : " ( Inciso I ao Inciso IV )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+        ,
+
+           "children" : [ 
+
+          {
+        
+                "name" : "I",
+
+                "type" : "Inciso",               
+
+                "numero" : "pela promoção de campanha de abrangência nacional de fomento à cultura da transparência na administração pública e conscientização do direito fundamental de acesso à informação;",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art41_inc1",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+
+          {
+        
+                "name" : "II",
+
+                "type" : "Inciso",               
+
+                "numero" : "pelo treinamento de agentes públicos no que se refere ao desenvolvimento de práticas relacionadas à transparência na administração pública;",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art41_inc2",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+           
+           },
+
+          {
+        
+                "name" : "III",
+
+                "type" : "Inciso",               
+
+                "numero" : "pelo monitoramento da aplicação da lei no âmbito da administração pública federal, concentrando e consolidando a publicação de informações estatísticas relacionadas no art. 30;",
+
+                "position" : "2",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art41_inc3",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+           
+           },
+
+          {
+        
+                "name" : "IV",
+
+                "type" : "Inciso",               
+
+                "numero" : "pelo encaminhamento ao Congresso Nacional de relatório anual com informações atinentes à implementação desta Lei.",
+
+                "position" : "3",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art41_inc4",
+
+                "range" : " ( - )",       
+ 
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+           
+           }
+
+           ]
+
+           },   
+
+
+
+           {
+
+                "name" : "42.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "O Poder Executivo regulamentará o disposto nesta Lei no prazo de 180 (cento e oitenta) dias a contar da data de sua publicação.",
+
+                "position" : "7",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art42",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+           },
+
+
+           {
+
+                "name" : "43.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "O inciso VI do art. 116 da Lei no 8.112, de 11 de dezembro de 1990, passa a vigorar com a seguinte redação: “Art. 116.  ............................................................................................................................................................... VI - levar as irregularidades de que tiver ciência em razão do cargo ao conhecimento da autoridade superior ou, quando houver suspeita de envolvimento desta, ao conhecimento de outra autoridade competente para apuração;.................................................................................” (NR) ",
+
+                "position" : "8",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art43",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+           },      
+
+
+
+           {
+
+                "name" : "44.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "O Capítulo IV do Título IV da Lei no 8.112, de 1990, passa a vigorar acrescido do seguinte art. 126-A: “Art. 126-A. Nenhum servidor poderá ser responsabilizado civil, penal ou administrativamente por dar ciência à autoridade superior ou, quando houver suspeita de envolvimento desta, a outra autoridade competente para apuração de informação concernente à prática de crimes ou improbidade de que tenha conhecimento, ainda que em decorrência do exercício de cargo, emprego ou função pública.”",
+
+                "position" : "9",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art44",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+           },
+
+
+
+           {
+
+                "name" : "45.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "Cabe aos Estados, ao Distrito Federal e aos Municípios, em legislação própria, obedecidas as normas gerais estabelecidas nesta Lei, definir regras específicas, especialmente quanto ao disposto no art. 9o e na Seção II do Capítulo III.",
+
+                "position" : "10",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art45",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+           },
+
+
+           {
+
+
+                "name" : "46.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "Revogam-se:",
+
+                "position" : "11",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art46",
+
+                "range" : " ( Inciso I ao Inciso II )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+        ,
+
+           "children" : [ 
+
+          {
+        
+                "name" : "I",
+
+                "type" : "Inciso",               
+
+                "numero" : "a Lei no 11.111, de 5 de maio de 2005; e",
+
+                "position" : "0",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art46_inc1",
+
+                "range" : " ( - )",       
+
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+        
+           },
+
+
+          {
+        
+                "name" : "II",
+
+                "type" : "Inciso",               
+
+                "numero" : "os arts. 22 a 24 da Lei no 8.159, de 8 de janeiro de 1991.",
+
+                "position" : "1",            
+
+                "level"   : "1",
+
+                "key"     : "Z-cap6_art46_inc2",
+
+                "range" : " ( - )",       
+ 
+                "color" : "#CCCCCC",            
+
+                "size" : "1"
+           
+           }
+
+           ]
+
+           },
+
+
+           {
+
+                "name" : "47.",
+
+                "type" : "ARTIGO",        
+
+                "numero" : "Esta Lei entra em vigor 180 (cento e oitenta) dias após a data de sua publicação.",
+
+                "position" : "12",           
+
+                "level"   : "0",
+
+                "key"     : "Z-cap6_art47",
+
+                "range" : " ( - )",        
+
+                "color1" : "#A8DBA8",
+
+                "color2" : "#052E4A",            
+
+                "size" : "1"
+
+           }
+
+
+
+
+        ]
+
+        }
+
+        ]
+
+    }
+
+    
+
